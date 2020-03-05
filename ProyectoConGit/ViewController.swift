@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     
         print("Hello, irs me")
+        print("7 rings")
     }
     
 
